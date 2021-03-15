@@ -1,0 +1,16 @@
+# All hidden files
+.*
+!.gitignore
+
+# VSCode
+.vscode
+
+# Gradle files
+.gradle
+
+# Build files
+bin/
+build/
+
+# Output files
+output*/

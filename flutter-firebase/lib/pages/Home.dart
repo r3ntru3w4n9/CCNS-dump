@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
   int ppage = 0;
 
   // TODO: just a landmark
-  var database = FirebaseFirestore.instance.collection('hw5');
+  var database = FirebaseFirestore.instance.collection('hw');
 
   @override
   void initState() {
